@@ -1,4 +1,3 @@
-
 # I'm As-har Abuhelweh
 I have a bachelor degree in civil engineering.
 I worked in engineering and other majors
