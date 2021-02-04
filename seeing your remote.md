@@ -52,3 +52,11 @@ By using git remote -v, you can view all the remote URLs next to their correspon
 reading-notes[main]$ git remote -v
 origin  https://github.com/asharabuhelweh/reading-notes.git (fetch)
 origin  https://github.com/asharabuhelweh/reading-notes.git (push)
+
+* 
+-
++
+:
+>
+=
+'jgtg'
