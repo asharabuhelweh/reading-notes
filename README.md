@@ -1,8 +1,8 @@
 # Code 201 Reading Notes
  ## TABLE OF CONTENT
- | **Assigment Number** |**LINK**|
- | -------------------  | ------ |
- | #1                   |        |
+ | **Assigment Number** |**LINK**                        |
+ | -------------------  | -------------------------------|
+ | #1                   |                     |
 #2
 #3
 #4
