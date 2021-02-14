@@ -44,7 +44,7 @@ a paragraph.
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: **a selector and a declaration**.
 
 
-![img](image/img5.PNG)
+![img](/image/img5.PNG)
 
 * CSS Properties Affect How Elements Are Displayed
 
@@ -66,8 +66,8 @@ between the HTML page and the file it is linked to.
 
  **CSS Selectors**
 
-![img](image/img6.PNG)
-![img](image/img6.PNG)
+![img](/image/img6.PNG)
+![img](/image/img6.PNG)
 
 
 ## Basic JavaScript Instructions
@@ -118,7 +118,7 @@ An array is a special type of variable. It doesn't just store one value; it stor
 * JavaScript arrays are written with square brackets.
 
 * Array items are separated by commas.
-![img](image/img7.PNG)
+![img](/image/img7.PNG)
 
 
 
@@ -140,7 +140,7 @@ EXP:  var size = 3 * 2 *6;
 
 * The assignment operator (=) assigns a value to a variable.
 
-![img](image/img8.PNG)
+![img](/image/img8.PNG)
 
 
 ## Decisions and Loops
