@@ -67,7 +67,7 @@ between the HTML page and the file it is linked to.
  **CSS Selectors**
 
 ![img](/image/img6.PNG)
-![img](/image/img6.PNG)
+
 
 
 ## Basic JavaScript Instructions
