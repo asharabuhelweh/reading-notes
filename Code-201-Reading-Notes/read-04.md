@@ -21,14 +21,14 @@ relative URL.
 
 **Directory Structure**
 
-![img](/reading-notes/image/img9.PNG)
+![img](/image/img9.PNG)
 
 **Relative URLs**
 Relative URLs can be used when linking to pages within your own
 website. They provide a shorthand way of telling the browser where to
 find your files.
 
-![](/reading-notes/image/img10.PNG)
+![](/image/img10.PNG)
 
 **Email Links**
 `<a href="mailto:jon@example.org">Email Jon</a>`
