@@ -12,13 +12,13 @@ I decided to shift my career to software development, because its really importa
 
 
  
- ## TABLE OF CONTENT
- | **Assigment Number** |**LINK**                        |
+ ## TABLE OF CONTENT Code 201
+ | **Assignment Number** |**LINK**                        |
  | -------------------  | -------------------------------|
  | #1                   |  [read 01](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
  | #2                       | [read 02](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/class-02)                            |
-#3
-#4
+|#3                          |         [read 03](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/read-03)                        |
+|#4                             |        [read 04](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/read-04)                        |
 #5
 #6
 #7
@@ -30,3 +30,17 @@ I decided to shift my career to software development, because its really importa
 #13
 #14
 #15
+
+
+
+## TABLE OF CONTENT Code 102
+ | **Assignment Number** |**LINK**                        |
+ | -------------------  | -------------------------------|
+ |#1                 |          [read 01](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/Read-01)                      |
+ |#2                  |     [read 02](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/mark-down)                               |
+ |#3                    |      [read 03](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/Duckett-HTML-CSS)                           |
+ |#4                  |      [read 04](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/Programming-with-JavaScript)                              |
+|#5                   |            [read 05](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/operators-and-loops)                         |
+|#6                   |                         [read 06 a](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/Functions)                 |
+|#7                        |             [read 06 b](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/css)           |
+|#8                       |        [Revisions-and-the-Cloud](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/Revisions-and-the-Cloud)                          |
