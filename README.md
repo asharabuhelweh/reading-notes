@@ -19,7 +19,7 @@ I decided to shift my career to software development, because its really importa
  | #2                       | [read 02](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/class-02)                            |
 |#3                          |         [read 03](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/read-03)                        |
 |#4                             |        [read 04](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/read-04)                        |
-#5
+|#5                              |[read 05](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/read-05)|
 #6
 #7
 #8
