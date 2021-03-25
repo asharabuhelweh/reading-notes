@@ -1,4 +1,4 @@
-# Code 301 Reading Notes
+# Reading Notes
 ## description 
 This is reading and summarizing the books and notes Website in GitHub.
 
@@ -10,9 +10,9 @@ I decided to shift my career to software development, because its really importa
 
 
 ## TABLE OF CONTENT Code 301-Intermediate Software Development
- | **Assignment Number** |**LINK**                        |
- | -------------------  | -------------------------------|
- | #1                   |  [read 01](https://asharabuhelweh.github.io/reading-notes/Code-301-Reading-Notes/read-01)
+ | **Assignment Number** |**LINK**                        |   Description          |
+ | -------------------  | -------------------------------|----------------|
+ | #1                   |  [read 01](https://asharabuhelweh.github.io/reading-notes/Code-301-Reading-Notes/read-01) | Responsive Web Design|
  | #2                       | [read 02](https://asharabuhelweh.github.io/reading-notes/Code-301-Reading-Notes/read-02)                            |
 |#3                          |         [read 03](https://asharabuhelweh.github.io/reading-notes/Code-301-Reading-Notes/read-03)                        |
 |#4                             |        [read 04](https://asharabuhelweh.github.io/reading-notes/Code-301-Reading-Notes/read-04)                        |
