@@ -8,7 +8,6 @@ Responsive web design is the practice of building a website suitable to work on 
 
 The formula is based around taking the target width of an element and dividing it by the width of it’s parent element. The result is the relative width of the target element.
 
------------------
 `target ÷ context = result`
 
 ```css
@@ -29,7 +28,6 @@ aside {
 }
 ```
 
------------------
 
 2. **Media Queries**
 
@@ -149,7 +147,7 @@ Float’s sister property is clear. An element that has the clear property set o
 
 **Techniques for Clearing Floats**
 
-1 .The Empty Div Method is, quite literally, an empty div.
+1. The Empty Div Method is, quite literally, an empty div.
 
  `<div style="clear: both;"></div>`
 
@@ -158,7 +156,7 @@ Float’s sister property is clear. An element that has the clear property set o
  relies on setting the overflow CSS property on a parent element. If this property is set to auto or hidden on the parent element, the parent will expand to contain the floats, effectively clearing it for succeeding elements.
 
  3. The Easy Clearing Method
- 
+
   uses a clever CSS pseudo selector (:after) to clear floats. Rather than setting the overflow on the parent.
 
   ```css
