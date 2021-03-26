@@ -81,7 +81,7 @@ There are three different logical operators available for use within media queri
 * Height & Width
 * Orientation :determines if a device is in the landscape or portrait orientation.
 
-3. **Flexible Media**
+  3. **Flexible Media**
 
 One quick way to make media scalable is by using the max-width property with a value of 100%. Doing so ensures that as the viewport gets smaller any media will scale down according to its containers width.
 
@@ -151,7 +151,7 @@ Float’s sister property is clear. An element that has the clear property set o
 
  `<div style="clear: both;"></div>`
 
-2. The Overflow Method
+2.  The Overflow Method
 
  relies on setting the overflow CSS property on a parent element. If this property is set to auto or hidden on the parent element, the parent will expand to contain the floats, effectively clearing it for succeeding elements.
 
