@@ -61,3 +61,38 @@ LIMIT num_limit OFFSET num_offset;
 ### Dropping tables
 
 `DROP TABLE` statement
+
+**Filtering and sorting Query results**
+
+Even though the data in a database may be unique, the results of any particular query may not be – take our Movies table for example, many different movies can be released the same year. In such cases, SQL provides a convenient way to discard rows that have a duplicate column value by using the **DISTINCT** keyword.
+
+```js
+Select query with unique results
+SELECT DISTINCT column, another_column, …
+FROM mytable
+WHERE condition(s);
+```
+
+**Ordering results**
+SQL provides a way to sort your results by a given column in ascending or descending order using the ORDER BY clause.
+
+```js
+Select query with ordered results
+SELECT column, another_column, …
+FROM mytable
+WHERE condition(s)
+ORDER BY column ASC/DESC;
+```
+**Limiting results to a subset**
+Another clause which is commonly used with the ORDER BY clause are the LIMIT and OFFSET clauses,
+
+```js
+Select query with limited rows
+SELECT column, another_column, …
+FROM mytable
+WHERE condition(s)
+ORDER BY column ASC/DESC
+LIMIT num_limit OFFSET num_offset;
+```
+
+
