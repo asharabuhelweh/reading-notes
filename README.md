@@ -9,7 +9,7 @@ I have a bachelor degree in civil engineering. I worked as a site engineer in Gr
 I decided to shift my career to software development, because its really important major with great future.
 
 
-## TABLE OF CONTENT Code 102- Intro to Software Development
+##  Code 102- Intro to Software Development
  | **Assignment Number** |**LINK**                        |
  | -------------------  | -------------------------------|
  |#1                 |          [read 01](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/Read-01)                      |
@@ -21,7 +21,7 @@ I decided to shift my career to software development, because its really importa
 |#7                        |             [read 06 b](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/css)           |
 |#8                       |        [Revisions-and-the-Cloud](https://asharabuhelweh.github.io/reading-notes/code-102-reading-notes/Revisions-and-the-Cloud)                          |
 
- ## TABLE OF CONTENT Code 201-Foundations of Software Development
+ ##  Code 201-Foundations of Software Development
  | **Assignment Number** |**LINK**                        |
  | -------------------  | -------------------------------|
  | #1                   |  [read 01](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
@@ -41,7 +41,7 @@ I decided to shift my career to software development, because its really importa
 |#14-b|[read 14-b](https://asharabuhelweh.github.io/reading-notes/Code-201-Reading-Notes/read-14-b)|
 
 
-## TABLE OF CONTENT Code 301-Intermediate Software Development
+##  Code 301-Intermediate Software Development
  | **Assignment Number** |**LINK**                        |   Description          |
  | -------------------  | -------------------------------|----------------|
  | #1                   |  [read 01](https://asharabuhelweh.github.io/reading-notes/Code-301-Reading-Notes/read-01) | Responsive Web Design|
@@ -69,8 +69,7 @@ I decided to shift my career to software development, because its really importa
 
 
 
-
-TABLE OF CONTENT Code 401 - Advanced Software Development
+ ## Code 401 - Advanced Software Development
  | **Assignment Number** |**LINK**                        |   Description          |
  | -------------------  | -------------------------------|----------------|
  | #1                   |  [read 01](https://asharabuhelweh.github.io/reading-notes/Code-401-Reading-Notes/read-01) | |
