@@ -72,6 +72,7 @@ I decided to shift my career to software development, because its really importa
  ##  Code 401 - Advanced Software Development
  | **Assignment Number** | **LINK**                                                                                                                 |
  | --------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+ | #0                    | [prep readings](https://asharabuhelweh.github.io/reading-notes/Code-401-Reading-Notes/read-0) |             |
  | #1                    | [read 01](https://asharabuhelweh.github.io/reading-notes/Code-401-Reading-Notes/read-01) |             |
  | #2                    | [read 02](https://asharabuhelweh.github.io/reading-notes/Code-401-Reading-Notes/read-02) |
  | #3                    | [read 03](https://asharabuhelweh.github.io/reading-notes/Code-401-Reading-Notes/read-03) |
