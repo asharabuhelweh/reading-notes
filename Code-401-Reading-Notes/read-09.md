@@ -10,7 +10,7 @@ OAuth is "an open standard for access delegation" ... In other words, OAuth serv
 * used when the user need access to both services and one of them need limited access to the other.
 
 
-W
+
 ### How does OAuth work?
 
 Through a series of "handshakes", an application such as an Express Web Server asks the user if it's ok to login as them at some remote service, and then begins the process of authentication and access.
