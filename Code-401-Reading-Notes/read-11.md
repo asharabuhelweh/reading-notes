@@ -2,7 +2,7 @@
 
 ## Why is access control important?
 
-When we are building a website, different kinds of users have different accessibility to the website's content. The level of authorization will vary depending on the type of user. Therefore, access control is massively important to let our application decide and define each user and the content they are authorized to display and interact with.
+The ultimate aim of access control is to provide a level of security that minimises risk to a business or organisation by helping to keep buildings, data and people secure. This is why access control goes hand in hand with I.T security and should be a key consideration for every business owner. Without proper access control you could leave your staff and your company wide open to problems such as data loss, theft or breach of privacy and data protection laws.
 
 ## Describe an application that would need access control
 
