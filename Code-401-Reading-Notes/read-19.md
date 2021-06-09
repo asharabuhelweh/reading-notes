@@ -76,12 +76,14 @@ SNS : Push Mechanism — SNS pushes messages to consumers.
 ### Persistence
 
 SQS : Messages are persisted for some duration is no consumer available. The retention period value is from 1 minute to 14 days. The default is 4 days.
+
 SNS : No persistence. Whichever consumer is present at the time of message arrival, get the message and the message is deleted. If no consumers available then the message is lost.
 In SQS the message delivery is guaranteed but in SNS it is not.
 
 ### Consumer Type
 
 SQS : All the consumers are supposed to be identical and hence process the messages in exact same way.
+
 SNS : All the consumers are (supposed to be) processing the messages in different ways.
 
 ### Use Cases
