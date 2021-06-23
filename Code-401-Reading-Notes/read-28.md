@@ -16,7 +16,7 @@ To obtain the state of another component, you can pass the component's state to 
 ## Term
 - **Component Props**: Keyword in React for properties, can be any information, function, JavaScript that needs to be passed to another component. Can only be passed in one direction, from the root to its children, no way for data to be passed up.
 
-- **Component State**: React components have built in state object, which is where you story property values that belong to the component. When the state object changes, t he component re-renders. 
+- **Component State**: React components have built in state object, which is where you stor property values that belong to the component. When the state object changes, t he component re-renders. 
  - **Application State**: In an application, state is interface between data (from backend or local change) and the representation of this data with UI elements on the front-end. State is able to keep the data of different components in sync because each state update will re render all relevant components. State can be a medium to communicate between different components as well.
 
 ## The Component Lifecycle
