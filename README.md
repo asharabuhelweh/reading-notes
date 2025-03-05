@@ -2,12 +2,6 @@
 ## description 
 This is reading and summarizing the books and notes Website in GitHub.
 
-## Intro
-I'm As-har Abuhelweh, I'm 28 years old.
-I have a bachelor degree in civil engineering. I worked as a site engineer in Greater Amman Municipality. I have been apart of startup company in event planning .
-
-I decided to shift my career to software development, because its really important major with great future.
-
 
 ##  Code 102- Intro to Software Development
  | **Assignment Number** | **LINK**                                                                                                                 |
